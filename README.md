@@ -1,9 +1,6 @@
 # KG_Enhanced_Wiki_Corpora
 This project is implemented for knowledge enhanced pre-trained corpora by Wikipedia and Wikidata5M. If your project needs the pretrained kg-enhanced corpus, you can directly push this project into the root directory of your project.
 
-If you have used this project, please cite me
-
-
 ## Step1: Download wikipedia copora
 Step into the directory ```/pretrain_data```, and run:
 ```shell
